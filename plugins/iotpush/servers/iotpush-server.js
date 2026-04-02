@@ -14,7 +14,7 @@
 const https = require("https");
 const readline = require("readline");
 
-const BASE_URL = "https://iotpush.com";
+const BASE_URL = "https://www.iotpush.com";
 const API_KEY = process.env.IOTPUSH_API_KEY || "";
 const DEFAULT_TOPIC = process.env.IOTPUSH_DEFAULT_TOPIC || "";
 
