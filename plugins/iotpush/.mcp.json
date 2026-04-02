@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "iotpush": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/iotpush-server.js"],
+      "env": {
+        "IOTPUSH_API_KEY": "${IOTPUSH_API_KEY}",
+        "IOTPUSH_DEFAULT_TOPIC": "${IOTPUSH_DEFAULT_TOPIC}"
+      }
+    }
+  }
+}

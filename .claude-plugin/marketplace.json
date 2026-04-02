@@ -1,0 +1,13 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "dasecure"
+  },
+  "plugins": [
+    {
+      "name": "iotpush",
+      "source": "./plugins/iotpush",
+      "description": "Send push notifications, emails, and webhooks via the iotpush API. Supports IoT devices, automation platforms, and Pushover-compatible integrations."
+    }
+  ]
+}

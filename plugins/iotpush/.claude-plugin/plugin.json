@@ -1,0 +1,9 @@
+{
+  "name": "iotpush",
+  "version": "0.1.0",
+  "description": "Send push notifications, emails, and webhooks via the iotpush API. Supports IoT devices, automation platforms, and Pushover-compatible integrations.",
+  "author": {
+    "name": "Vincent"
+  },
+  "keywords": ["iotpush", "push-notifications", "iot", "webhooks", "pushover"]
+}
